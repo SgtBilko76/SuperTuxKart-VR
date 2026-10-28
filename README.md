@@ -1,5 +1,7 @@
 # SuperTuxKart VR
 
+**Download, install guide, controls and pictures: [portroyale.online/supertuxkart.html](https://portroyale.online/supertuxkart.html)**
+
 [![Sponsor](https://img.shields.io/badge/Sponsor-SgtBilko76-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/SgtBilko76)
 
 A standalone VR port of [SuperTuxKart](https://supertuxkart.net/), the free open-source kart racer, for Meta Quest. No PC needed.
