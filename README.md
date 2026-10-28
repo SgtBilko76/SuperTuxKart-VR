@@ -18,6 +18,8 @@ A standalone VR port of [SuperTuxKart](https://supertuxkart.net/), the free open
 
 ## Controls
 
+![SuperTuxKart VR controller mapping](docs/controls.webp)
+
 | Input | Action |
 |---|---|
 | Left thumbstick | Steer |
